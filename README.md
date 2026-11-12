@@ -33,4 +33,4 @@ O probar cada estructura por separado:
 
 ## Autor
 
-Tu nombre - Estudiante de Ingenieria de Sistemas
+Juan Jose Zapata Tuberquia
